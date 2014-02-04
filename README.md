@@ -1,12 +1,6 @@
 # gitmodules-bower
 [![NPM Version](https://badge.fury.io/js/gitmodules-bower.png)]
 (https://npmjs.org/package/gitmodules-bower)
-[![Build Status](https://travis-ci.org/azproduction/gitmodules-bower.png?branch=master)]
-(https://travis-ci.org/azproduction/gitmodules-bower)
-[![Coverage Status](https://coveralls.io/repos/azproduction/gitmodules-bower/badge.png?branch=master)]
-(https://coveralls.io/r/azproduction/gitmodules-bower)
-[![Dependency Status](https://gemnasium.com/azproduction/gitmodules-bower.png)]
-(https://gemnasium.com/azproduction/gitmodules-bower)
 
 Translates .gitmodules into bower.json
 
