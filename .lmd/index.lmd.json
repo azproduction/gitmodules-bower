@@ -1,0 +1,14 @@
+{
+    "name": "index build",
+    "root": "../",
+    "output": "example_assets/index.lmd.js",
+    "modules": {
+        "main": "example_assets/index.js",
+        "gitmodules-bower": "lib/index.js",
+        "path": "node_modules/path-browserify/index.js",
+        "ini": "node_modules/ini/ini.js"
+    },
+    "main": "main",
+    "ie": false,
+    "optimize": true
+}

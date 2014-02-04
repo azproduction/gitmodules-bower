@@ -1,0 +1,6 @@
+test/
+.DS_Store
+.lmd
+lib-cov
+coverage.html
+html-report
